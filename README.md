@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+我叫胡智凯，现在是一位computer science专业的学生，希望自己可以在计算机的路上越走越远，有所成就。
 <!--
 **xiaoran0410/xiaoran0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
